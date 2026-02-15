@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -143,6 +144,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+tc2004b_env/
 
 # Spyder project settings
 .spyderproject
